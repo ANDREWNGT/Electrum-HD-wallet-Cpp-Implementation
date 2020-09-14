@@ -1,0 +1,9 @@
+{
+keystore: {
+    "derivation": "m"
+    "seed": fitness amused glad pipe antenna keep gap assault fame liar detect box 
+    "type": bip32
+    "xprv": xprvA3eHtJzkujXvLgzws52fnVsWfNsg3hTeYh417bR614KiJ7bz1Qd24k9JD3mhoJ88YKXHZXzRAfazMKpiaWRjdDb45UHXTKe1JPJuLUgEE92
+    "xpub": xpub6GdeHpXek76DZB5Qy6Zg9dpFDQiATABVuuybuyphZPrhAuw8YwwGcYTn4KvbL32QJpdvnHB9RJRreanLpa3KyMcbWVfks7LdT7BJKdW2Xhv
+          }
+}

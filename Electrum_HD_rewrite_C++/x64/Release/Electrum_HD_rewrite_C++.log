@@ -1,0 +1,15 @@
+﻿  Using triplet "x64-windows" from "C:\DEV\vcpkg\installed\x64-windows\"
+  Electrum_HD_rewrite_C++.cpp
+C:\Users\Andrew Ng\source\repos\Electrum_HD_rewrite_C++\Electrum_HD_rewrite_C++\Electrum_HD_rewrite_C++.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Andrew Ng\source\repos\Electrum_HD_rewrite_C++\Dependencies\HD_wallet_determination\include\uchar_vector.h(94,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint', possible loss of data
+C:\Users\Andrew Ng\source\repos\Electrum_HD_rewrite_C++\Dependencies\HD_wallet_determination\include\hash.h(90,134): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Andrew Ng\source\repos\Electrum_HD_rewrite_C++\Dependencies\HD_wallet_determination\include\BigInt.h(157,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Andrew Ng\source\repos\Electrum_HD_rewrite_C++\Electrum_HD_rewrite_C++\Electrum_HD_rewrite_C++.cpp(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+lib_HD_wallet.lib(hdkeys.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+     Creating library C:\Users\Andrew Ng\source\repos\Electrum_HD_rewrite_C++\x64\Release\Electrum_HD_rewrite_C++.lib and object C:\Users\Andrew Ng\source\repos\Electrum_HD_rewrite_C++\x64\Release\Electrum_HD_rewrite_C++.exp
+  Generating code
+  2 of 621 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Electrum_HD_rewrite_C++.vcxproj -> C:\Users\Andrew Ng\source\repos\Electrum_HD_rewrite_C++\x64\Release\Electrum_HD_rewrite_C++.exe

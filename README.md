@@ -1,5 +1,5 @@
 # Electrum-HD-wallet-Cpp-Implementation
-WORK IN PROGRESS
+V1.1
 
 A C++ implementation of some functions of the Electrum HD wallet, primarily working with BitCoin in mind. https://electrum.org/#home
 
